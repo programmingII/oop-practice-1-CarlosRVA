@@ -5,7 +5,7 @@ import java.util.Scanner;
 class Ejercicio6{
 public static void main(String[]args){
 Scanner Num = new Scanner(System.in);
-float x,y,S,R,M,D,Md; //Se declaran como float en caso de que se quiera insertar números decimales
+float x,y,S,R,M,D,Md; //Se declaran como float para que se muestren decimales al dividir.
 System.out.println("Inserta el primer numero");
 x=Num.nextInt();
 System.out.println("Inserta el segundo numero");
