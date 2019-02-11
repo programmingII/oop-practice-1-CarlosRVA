@@ -1,7 +1,7 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo
 //Día: 07/02/2019
 //Hora: 12:20
-import java.util.Scanner; //Importa las funciones para introducir datos.
+import java.util.Scanner; //Importa las funciones para la entrada de datos.
 /*La clase Ejercicio5 implementa una aplicación que recibe dos entradas numéricas e imprime su producto.*/
 class Ejercicio5{
 public static void main(String[]args){
