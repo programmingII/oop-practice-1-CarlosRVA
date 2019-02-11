@@ -1,14 +1,17 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
-//D韆: 05/02/2019
+//D铆a: 05/02/2019
 //Hora: 13:10
+//La clase Ejercicio4 implementa una aplicaci贸n que imprime varias operaciones junto con su resultado.
 class Ejercicio4{
 public static void main(String[]args){
-System.out.println("Operacion A) -9+12*8");
-System.out.println((-9)+(12*8));
-System.out.println("Operacion B) (20+13)%9");
-System.out.println((20+13)%9);
-System.out.println("Operacion C) 17+ -38*8/4");
-System.out.println(17 + -38*8/4);
+System.out.println("Operacion A) -9+12*8");//Se utiliza el comando para imprimir en pantalla.
+System.out.println((-9)+(12*8));//Se imprime el resultado de la operaci贸n.
+System.out.println("Operacion B) (20+13)%9");//Cuando se quiere mostrar la operaci贸n en s铆, se debe escribir entre comillas
+System.out.println((20+13)%9);/*Esta operaci贸n divide el dato localizado a la izquierda (en este caso 20+13) entre el dato
+localizado a la derecha (9 en este caso) e imprime el residuo de la divisi贸n.)*/
+System.out.println("Operacion C) 17+ -38*8/4");//Se repite el mismo principio para imprimir texto en pantalla
+System.out.println(17 + -38*8/4);/*Al ser ejecutado, el programa aplica autom谩ticamente las reglas de prioridades 
+a la hora de calcular el resultado*/
 System.out.println("Operacion D) 9+56/7*4%3");
 System.out.println((9+(56/7*4%3)));
 }}
