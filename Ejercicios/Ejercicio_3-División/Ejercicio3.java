@@ -1,7 +1,9 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
-//D韆: 05/02/2019
+//D铆a: 05/02/2019
 //Hora: 13:02
+/*La clase Ejercicio3 implementa una aplicaci贸n que imprime el resultado de una divisi贸n*/
 class Ejercicio3{
 public static void main(String[]args){
-System.out.println(3000/75);
+System.out.println(3000/75);/*Se utiliza el comando para imprimir en pantalla y se escribe la divisi贸n dentro del par茅ntesis.
+El resultado de la divisi贸n se mostrar谩 al ejecutar el programa.*/
 }}
