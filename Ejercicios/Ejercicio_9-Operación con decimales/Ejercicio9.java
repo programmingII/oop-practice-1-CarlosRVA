@@ -1,11 +1,13 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
-//D韆: 09/02/2019
+//D铆a: 09/02/2019
 //Hora: 10:00
+//La clase Ejercicio9 implementa una aplicaci贸n que realiza una operaci贸n e imprime el resultado con n煤meros decimales.
 class Ejercicio9{
 public static void main(String[]args){
-double A,B,C;
-A=(32.2*6.6-6.6*6.6);
-B=(20.1-2.1);
-C=A/B;
-System.out.println(C);
+double A,B,C;//Se declaran las variables de tipo double para que se pueda trabajar con decimales.
+A=(32.2*6.6-6.6*6.6);/*Se declara A como la primera parte de la divisi贸n a realizar, dentro de A se hace una operaci贸n y
+se almacena el resultado.*/
+B=(20.1-2.1);//Se realiza lo mismo con la variable B.
+C=A/B;//La variable C se declara como la divisi贸n entre las variables anteriores.
+System.out.println(C);//Finalmente, se utiliza el comando para imprimir la variable C, que tiene almacenado el resultado de la divisi贸n.
 }}
