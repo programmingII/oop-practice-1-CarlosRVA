@@ -1,15 +1,18 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
-//D韆: 10/02/2019
+//D铆a: 10/02/2019
 //Hora: 10:13
+//La clase Ejercicio4 implementa una aplicaci贸n que imprime texto en un patr贸n espec铆fico para mostrar la bandera de EEUU
 class Ejercicio14{
 public static void main(String[]args){
-String[] A = new String[11];
-for(int x=1;x<=4;x++){
+for(int x=1;x<=4;x++){//Se utiliza un ciclo for para ahorrar c贸digo y tiempo a la hora de hacer la bandera.
 System.out.println("* * * * * * ==================================");
 System.out.println(" * * * * *  ==================================");
+//Este ciclo for consta de 4 repeticiones, cada repetici贸n tiene dos comandos de salida con su respectivo patr贸n.
 }
-System.out.println("* * * * * * ==================================");
+System.out.println("* * * * * * ==================================");/*Se agrega un comando m谩s de salida para 
+completar las 50 estrellas de la bandera*/
 for(int x=5;x<=10;x++){
-System.out.println("==============================================");
+System.out.println("==============================================");/*Se finaliza con un ciclo for de 6 repeticiones
+con su respectivo patr贸n para completar la bandera.
 }
 }}
