@@ -3,7 +3,8 @@
 //Hora: 09:38
 import java.util.Scanner;//Importa las funciones de scanner que se usan para la entrada de datos.
 class Ejercicio12{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para que el programa sea capaz de ejecutarse y se le asignan
+los atributos de disponibilidad de uso, valores de retorno y argumentos.*/
 Scanner N = new Scanner(System.in);//Se crea un nuevo scanner y se le asigna el nombre de "N".
 int A,B,C,S;//Se crean 4 variables de tipo int.
 System.out.println("Introduce el primer numero");//Se usa el comando para imprimir en pantalla y se escribe una instrucción.
