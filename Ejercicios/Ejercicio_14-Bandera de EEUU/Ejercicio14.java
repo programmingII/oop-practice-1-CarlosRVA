@@ -3,7 +3,8 @@
 //Hora: 10:13
 //La clase Ejercicio4 implementa una aplicación que imprime texto en un patrón específico para mostrar la bandera de EEUU
 class Ejercicio14{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para que el programa pueda ser ejecutado y se le asignan
+atributos como la disponibilidad de uso, el valor de retorno y los argumentos.*/
 for(int x=1;x<=4;x++){//Se utiliza un ciclo for para ahorrar código y tiempo a la hora de hacer la bandera.
 System.out.println("* * * * * * ==================================");
 System.out.println(" * * * * *  ==================================");
