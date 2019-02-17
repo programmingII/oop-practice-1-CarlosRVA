@@ -4,7 +4,8 @@
 import java.util.Scanner;//Importa las funciones necesarias para la entrada de datos
 //La clase Ejercicio6 implementa una aplicación que imprime el resultado de varias operaciones básicas
 class Ejercicio6{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para que el programa pueda ejecutarse y se le agregan
+los atributos de disponibilidad, valores de retorno y argumentos.*/
 Scanner Num = new Scanner(System.in);/*La función crea un Scanner para poder introducir datos.
 Después de la palabra "Scanner" se declara el nombre del mismo.*/
 float x,y,S,R,M,D,Md; //Se declaran las variables como float para que se muestren decimales al dividir.
