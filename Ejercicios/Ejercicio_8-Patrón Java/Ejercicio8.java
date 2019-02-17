@@ -3,7 +3,8 @@
 //Hora: 13:19
 //La clase Ejercicio8 implementa una aplicación que imprime texto con un patron establecido para formar una palabra.
 class Ejercicio8{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para que el programa sea capaz de ejecutarse y se le
+agregan atributos de disponibilidad de uso, argumentos y valores de retorno.*/
 System.out.println("   J     a    v     v   a  ");//Se utiliza el comando para imprimir en pantalla
 System.out.println("   J    a a    v   v   a a ");//Se debe recordar poner el texto entre comillas
 System.out.println("J  J   aaaaa    V V   aaaaa ");//El texto va posicionado de una manera específica
