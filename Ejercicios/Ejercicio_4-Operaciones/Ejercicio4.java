@@ -3,7 +3,8 @@
 //Hora: 13:10
 //La clase Ejercicio4 implementa una aplicación que imprime varias operaciones junto con su resultado.
 class Ejercicio4{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main y se le agregan sus valores de disponibilidad de uso, argumentos
+y valores de retorno.*/
 System.out.println("Operacion A) -9+12*8");//Se utiliza el comando para imprimir en pantalla.
 System.out.println((-9)+(12*8));//Se imprime el resultado de la operación.
 System.out.println("Operacion B) (20+13)%9");//Cuando se quiere mostrar la operación en sí, se debe escribir entre comillas
@@ -13,5 +14,5 @@ System.out.println("Operacion C) 17+ -38*8/4");//Se repite el mismo principio pa
 System.out.println(17 + -38*8/4);/*Al ser ejecutado, el programa aplica automáticamente las reglas de prioridades 
 a la hora de calcular el resultado*/
 System.out.println("Operacion D) 9+56/7*4%3");
-System.out.println((9+(56/7*4%3)));
+System.out.println((9+(56/7*4%3)));//Se repite el mismo procedimiento para las operaciones restantes.
 }}
