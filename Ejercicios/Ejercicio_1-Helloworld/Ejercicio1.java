@@ -7,8 +7,7 @@ public static void main(String[]args){/*Se escribe el método main para que el p
 se busca automáticamente el método main.
 Se le agregan atributos como public para definir su disponibilidad de uso ante otras clases, static para indicar que no hay objetos
 presentes en el método y que se pueda cargar la clase en memoria para llamar al método,void se usapara definir que no tiene un valor
-de retorno. Finalmente, String[]args indica que acepta argumentos en modo de string, esto quiere decir que el texto escrito dentro del
-método se identifica como argumento.*/
+de retorno. Finalmente, String[]args indica que contiene argumentos.*/
 System.out.println("Hello");/*Este comando se utiliza para imprimir en pantalla. Se abre un flujo de salida que está listo para
 aceptar e imprimir datos*/
 System.out.println("Carlos Villanueva");//Si se quiere mostrar un texto en particular se introduce entre comillas
