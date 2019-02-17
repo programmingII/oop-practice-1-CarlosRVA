@@ -4,7 +4,8 @@
 import java.util.Scanner;//Importa las funciones que se utilizan para la entrada de datos
 /*La clase Ejercicio7 implementa una aplicación que muestra la tabla de multiplicación de un número dado.*/
 class Ejercicio7{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el metodo main para que el programa pueda ejecutarse y se agregan
+atributos como disponibilidad de uso, valores de retorno y argumentos.*/
 Scanner N= new Scanner(System.in);//Se crea un nuevo scanner para la entrada de datos y se le asigna el nombre de "N".
 int x,n;//Se declaran dos variables de tipo entero para su uso posterior en el programa
 System.out.println("Inserta un numero para ver su tabla de multiplicar");/*Se utiliza el comando para imprimir una instrucción dada en
