@@ -4,7 +4,8 @@
 import java.util.Scanner;//Se importan las funciones que se utilizan para la entrada de datos.
 //La clase Ejercicio11 implementa una aplicación que recibe el radio de un círculo y calcula e imprime su área y perímetro.
 class Ejercicio11{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos
+como disponibilidad de uso, valor de retorno y argumentos.*/
 Scanner Rad = new Scanner(System.in);//Se crea un nuevo scanner para la entrada de datos y se le asigna el nombre de "Rad".
 double R,P,A;//Se asignan variables tipo double para que se puedan introducir números decimales.
 System.out.println("Introduce el radio del circulo");//Se utiliza el comando para imprimir texto y se escribe una instrucción.
