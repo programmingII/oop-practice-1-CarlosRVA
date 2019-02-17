@@ -3,7 +3,8 @@
 //Hora: 09:47
 import java.util.Scanner;//Se importan las funciones de scanner para introducir datos.
 class Ejercicio13{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para que el programa se pueda ejecutar y se le asignan los atributos
+de disponibilidad de uso, argumentos y valores de retorno.*/
 Scanner N = new Scanner(System.in);//Se crea un nuevo scanner y se le asigna el nombre de "N".
 int L,A;//Se asignan variables tipo int para almacenar números enteros.
 System.out.println("Introduce el largo del rectangulo");//Se realiza el comando para imprimir en pantalla y se escribe una instrucción.
