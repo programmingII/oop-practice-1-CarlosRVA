@@ -4,7 +4,8 @@
 import java.util.Scanner; //Importa las funciones para la entrada de datos.
 /*La clase Ejercicio5 implementa una aplicación que recibe dos entradas numéricas e imprime su producto.*/
 class Ejercicio5{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el metodo main para que el programa pueda ser ejecutado y se agregan sus atributos
+de disponibilidad de uso, valores de retorno y argumentos.*/
 int x,y;//Se declaran los valores enteros de entrada para realizar la operación.
 Scanner Num = new Scanner(System.in); //Crea un scanner para introducir datos.
 System.out.println("Introduce un numero");//Se utiliza el comando para imprimir texto
