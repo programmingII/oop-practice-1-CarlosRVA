@@ -4,7 +4,8 @@
 import java.util.Scanner;//Se importa la librería scanner para poder utilizar funciones de entrada de datos.
 //La clase Ejercicio15 implementa una aplicación que captura dos variables, muestra su valor, y luego las cambia de posición.
 class Ejercicio15{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos
+como valor de retorno, disponibilidad de uso y argumentos.*/
 Scanner N = new Scanner(System.in);//Se declara un nuevo scanner con el nombre de "N".
 int x,y,z;//Se declaran 3 variables de tipo int.
 System.out.println("Inserta el primer numero");//Se utiliza el comando para imprimir a pantalla y se escribe la instrucción.
