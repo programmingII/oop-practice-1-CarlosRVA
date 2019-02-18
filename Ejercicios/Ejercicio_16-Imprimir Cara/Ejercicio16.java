@@ -3,7 +3,8 @@
 //Hora: 13:28
 //La clase Ejercicio16 implementa una aplicación que imprime caracteres en un patrón en el cual se muestra una cara.
 class Ejercicio16{
-public static void main(String[]args){
+public static void main(String[]args){/*Se crea el método main para que el programa pueda ejecutarse y se le agregan los atributos
+de argumentos, disponibilidad de uso y valor de retorno.*/
 System.out.println(" +\"\"\"\"\"+ "); /*Se inserta una barra invertida para que las comillas se muestren como texto.
 La barra invertida le indica al compilador que el siguiente carácter es parte de una instrucción alternativa*/
 System.out.println("[| o o |]");//Se siguen insertando los caracteres necesarios para formar la cara//
