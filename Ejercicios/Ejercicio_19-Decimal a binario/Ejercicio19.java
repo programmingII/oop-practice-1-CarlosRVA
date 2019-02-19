@@ -4,7 +4,7 @@
 import java.util.Scanner;//Se importa la librería scanner para poder utilizar funciones de entrada de datos.
 //La clase Ejercicio19 implementa una aplicación que captura un número decimal, lo convierte a binario y lo imprime.
 class Ejercicio19{
-public static void main(String[]args){/*Se crea el método main para que el programa pueda ejecutarse y se le asignan valores
+public static void main(String[]args){/*Se crea el método main para que el programa pueda ejecutarse y se le asignan atributos
 de disponibilidad de uso, argumentos y valores de retorno.*/
 String x;//Se asigna una variable tipo string.
 Scanner Dec = new Scanner(System.in);//Se crea un nuevo scanner y se le asigna el nombre de "Dec".
