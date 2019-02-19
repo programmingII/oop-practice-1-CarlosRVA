@@ -2,7 +2,7 @@
 //Día: 13/02/2019
 //Hora: 14:07
 import java.util.Scanner;//Se importa la librería scanner para poder utilizar funciones de entrada de datos.
-//La clase Ejercicio19 implementa una aplicación que captura dos números en decimal, los convierte a binario y los imprime.
+//La clase Ejercicio19 implementa una aplicación que captura un número decimal, lo convierte a binario y lo imprime.
 class Ejercicio19{
 public static void main(String[]args){/*Se crea el método main para que el programa pueda ejecutarse y se le asignan valores
 de disponibilidad de uso, argumentos y valores de retorno.*/
