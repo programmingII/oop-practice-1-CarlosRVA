@@ -1,16 +1,20 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
-//D韆: 12/02/2019
+//D铆a: 12/02/2019
 //Hora: 16:23
-import java.util.Scanner;
+import java.util.Scanner;//Se importa la librer铆a scanner para poder utilizar funciones de entrada de datos.
+//La clase Ejercicio18 implementa una aplicaci贸n que recibe dos variables escritas en binario, las multiplica y escribe el resultado.
 class Ejercicio18{
-public static void main(String[]args){
-String x,y;
-Scanner num = new Scanner(System.in);
-System.out.println("Inserta el primer numero binario");
-x = num.nextLine();
-System.out.println("Inserta el primer numero binario");
-y = num.nextLine();
-System.out.println("El resultado de la multiplicaci髇 de estos dos binarios es: "
+public static void main(String[]args){/*Se crea el m茅todo main para que el programa pueda ejecutarse y se le agregan los valores de 
+disponibilidad de uso, argumentos y valores de retorno.*/
+String x,y;//Se crean dos variables de tipo string.
+Scanner num = new Scanner(System.in);//Se crea un nuevo scanner y se le asigna el nombre de "num".
+System.out.println("Inserta el primer numero binario");//Se utiliza el comando para imprimir datos en pantalla y se escribe una instrucci贸n.
+x = num.nextLine();//Se llama al scanner para almacenar en x a la pr贸xima linea de texto que se inserte.
+System.out.println("Inserta el primer numero binario");//Se vuelve a utilizar este comando para escribir otra instrucci贸n.
+y = num.nextLine();//Se vuelve a llamar al scanner para almacenar otra l铆nea de texto en y.
+System.out.println("El resultado de la multiplicaci贸n de estos dos binarios es: "
 +(Integer.toBinaryString(Integer.parseInt(x,2)*Integer.parseInt(y,2))));
-
+/*Finalmente, se imprime el resultado de la multiplicaci贸n de los binarios escritos en forma de string, los cuales son convertidos 
+a entero gracias a Integer.parseInt. Una vez que se realiza la multiplicaci贸n, se vuelve a convertir a binario 
+usando Integer.toBinaryString para imprimir el resultado en binario.*/
 }}
