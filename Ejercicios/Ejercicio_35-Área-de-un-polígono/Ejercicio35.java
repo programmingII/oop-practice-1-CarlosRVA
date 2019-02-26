@@ -8,7 +8,7 @@ class Ejercicio35{
 public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos de
 disponibilidad de uso, valores de retorno y argumentos.*/
 Scanner Valor = new Scanner(System.in);//Se crea un nuevo scanner con el nombre de "Valor".
-int n,l;//Se asignan dos variables de tipo int.
+int n,l;//Se declaran dos variables de tipo int.
 System.out.println("Inserta el numero de lados del poligono: ");//Se utiliza el comando para imprimir en pantalla una instrucción al usuario.
 n=Valor.nextInt();//Se llama al scanner para almacenar en n el valor del próximo entero que se inserte.
 System.out.println("Inserta la longitud de los lados del poligono: ");//Se imprime una instrucción al usuario.
