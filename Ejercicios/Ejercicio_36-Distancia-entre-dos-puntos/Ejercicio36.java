@@ -1,7 +1,7 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
 //Día: 21/02/2019
 //Hora: 19:56
-import java.util.Scanner;//Se llama al scanner para utilizar funciones de entrada de datos.
+import java.util.Scanner;//Se importa la librería scanner para utilizar funciones de entrada de datos.
 /*La clase Ejercicio36 implementa una aplicación que captura coordenadas de latitud y longitud de dos puntos determinados, calcula
 la distancia entre estos dos puntos y escribe el resultado.*/
 class Ejercicio36{
