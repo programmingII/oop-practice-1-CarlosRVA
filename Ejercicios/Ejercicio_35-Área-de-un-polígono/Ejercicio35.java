@@ -1,7 +1,7 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
 //Día: 21/02/2019
 //Hora: 13:30
-import java.util.Scanner;//Se llama al scanner para poder utilizar funciones de entrada de datos
+import java.util.Scanner;//Se importa la librería scanner para poder utilizar funciones de entrada de datos
 /*La clase Ejercicio35 implementa una aplicación que captura la longitud y número de lados de un polígono, calcula el área e imprime el
 resultado*/
 class Ejercicio35{
