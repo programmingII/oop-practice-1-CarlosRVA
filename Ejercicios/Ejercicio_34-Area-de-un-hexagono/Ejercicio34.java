@@ -1,7 +1,7 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
 //Día: 21/02/2019
 //Hora: 19:25
-import java.util.Scanner;//Se crea la librería scanner para poder utilizar funciones de entrada de datos.
+import java.util.Scanner;//Se importa la librería scanner para poder utilizar funciones de entrada de datos.
 //La clase Ejercicio34 implementa una aplicación que captura la longitud del lado de un hexagono, calcula su area e imprime el resultado.
 class Ejercicio34{
 public static void main(String[]args){/*Se crea el método main y se escriben los atributos de disponibilidad de uso,
