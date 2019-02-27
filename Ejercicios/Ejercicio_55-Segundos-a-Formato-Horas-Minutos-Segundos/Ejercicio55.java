@@ -1,5 +1,5 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
-//Día: 2/02/2019
+//DÃ­a: 26/02/2019
 //Hora: 16:29
 import java.util.Scanner;
 class Ejercicio55{
