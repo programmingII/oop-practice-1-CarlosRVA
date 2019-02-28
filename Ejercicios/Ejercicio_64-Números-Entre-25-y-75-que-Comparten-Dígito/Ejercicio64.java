@@ -2,6 +2,7 @@
 //Día: 26/02/2019
 //Hora: 05:43
 import java.util.Scanner;//Se importa la clase Scanner desde el paquete util, esta clase permite utilizar funciones de entrada de datos.
+//La clase Ejercicio53 implementa una aplicación que captura 2 números, los compara e indica si coinciden o no en algún dígito.
 class Ejercicio64{
 public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos de
 disponibilidad de uso, valores de retorno y argumentos.*/
