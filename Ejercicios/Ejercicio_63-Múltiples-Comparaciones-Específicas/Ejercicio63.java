@@ -1,5 +1,5 @@
 //Nombre: Villanueva Aguilar Carlos Raymundo 
-//Día: 26/02/2019
+//Día: 27/02/2019
 //Hora: 05:32
 import java.util.Scanner;//Se importa la clase Scanner desde el paquete util, esta clase permite utilizar funciones de entrada de datos.
 /*La clase Ejercicio53 implementa una aplicación que captura 3 números, realiza varias comparaciones, e imprime un valor según
