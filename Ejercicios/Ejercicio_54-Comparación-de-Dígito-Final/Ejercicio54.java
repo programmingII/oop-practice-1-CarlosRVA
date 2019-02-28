@@ -2,6 +2,8 @@
 //Día: 26/02/2019
 //Hora: 16:15
 import java.util.Scanner;//Se importa la clase Scanner desde el paquete util, esta clase permite utilizar funciones de entrada de datos.
+/*La clase Ejercicio54 implementa una aplicación que captura 3 números, los compara, e imprime si al menos dos de los números comparten
+el mismo dígito final.*/
 class Ejercicio54{
 public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos de
 disponibilidad de uso, valores de retorno y argumentos.*/
