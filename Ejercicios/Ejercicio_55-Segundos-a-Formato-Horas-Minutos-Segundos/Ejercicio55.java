@@ -2,6 +2,7 @@
 //Día: 26/02/2019
 //Hora: 16:29
 import java.util.Scanner;//Se importa la clase Scanner desde el paquete util, esta clase permite utilizar funciones de entrada de datos.
+//La clase Ejercicio55 implementa una aplicación que captura un número en segundos y lo convierte a un formato de Horas, Minutos y Segundos.
 class Ejercicio55{
 public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos de
 disponibilidad de uso, valores de retorno y argumentos.*/
