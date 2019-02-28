@@ -2,7 +2,7 @@
 //Día: 26/02/2019
 //Hora: 18:56
 import java.util.Scanner;//Se importa la clase Scanner desde el paquete util, esta clase permite utilizar funciones de entrada de datos.
-//La clase Ejercicio53 implementa una aplicación que captura un string, transforma sus caracteres a mayúscula y lo imprime.
+//La clase Ejercicio58 implementa una aplicación que captura un string, transforma sus caracteres a mayúscula y lo imprime.
 class Ejercicio59{
 public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos de
 disponibilidad de uso, valores de retorno y argumentos.*/
