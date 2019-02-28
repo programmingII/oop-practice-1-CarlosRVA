@@ -2,6 +2,7 @@
 //Día: 27/02/2019
 //Hora: 05:15
 import java.util.Scanner;//Se importa la clase Scanner desde el paquete util, esta clase permite utilizar funciones de entrada de datos.
+//La clase Ejercicio53 implementa una aplicación que captura un string, invierte su contenido y lo imprime en pantalla.
 class Ejercicio61{
 public static void main(String[]args){/*Se crea el método main para poder ejecutar el programa y se le asignan atributos de
 disponibilidad de uso, valores de retorno y argumentos.*/
